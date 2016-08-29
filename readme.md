@@ -37,7 +37,7 @@ Butns offers 6 different options in version 1.0.0
 ## Usage
 Here's how you get started using Butns!
 * Link the butns stylesheet in your HTML file
-	```html
+	```HTML
 	<link rel="stylesheet" href="path/to/butns.css">
 	```
 * Create a new or modify your existing anchor or button tag to have the class of button

@@ -2,19 +2,18 @@
 Butns is an advanced buttons library for your website, using a set of pre defined classes you can fully customize your button and step up your website's design.
 
 ## Buttons
-Here's a small demo of the buttons
-	![red](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-red.png)
-	![orange](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-orange.png)
-	![yellow](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-yellow.png)
-	![lime](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-lime.png)
-	![green](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-green.png)
-	![lightblue](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-lightblue.png)
-	![blue](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-blue.png)
-	![purple](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-purple.png)
-	![pink](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-pink.png)
-	![black](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-black.png)
-	![white](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-white.png)
-	![gray](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-gray.png)
+![red](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-red.png)
+![orange](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-orange.png)
+![yellow](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-yellow.png)
+![lime](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-lime.png)
+![green](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-green.png)
+![lightblue](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-lightblue.png)
+![blue](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-blue.png)
+![purple](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-purple.png)
+![pink](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-pink.png)
+![black](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-black.png)
+![white](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-white.png)
+![gray](https://github.com/ahmedtarek2134/Butns/blob/master/images/fill-gray.png)
 
 ## Colours
 Butns offers 12 different colour choises in version 1.0.0

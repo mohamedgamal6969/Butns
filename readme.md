@@ -42,11 +42,20 @@ Here's how you get started using Butns!
 	<link rel="stylesheet" href="path/to/butns.css">
 	```
 * Create a new or modify your existing anchor or button tag to have the class of button
-	`<a href="#" class="button">Text Here</a>`
+
+	```HTML
+	<a href="#" class="button">Text Here</a>
+	```
 * Add your desired button type and colour
-	`<a href="#" class="button fill-red">`
+	
+	```HTML
+	<a href="#" class="button fill-red">
+	```
 * Add your desired button options
-	`<a href="#" class="button fill-red medium">`
+	
+	```HTML
+	<a href="#" class="button fill-red medium">
+	```
 
 ## License
 The MIT License (MIT)

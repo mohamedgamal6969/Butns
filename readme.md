@@ -37,6 +37,7 @@ Butns offers 6 different options in version 1.0.0
 ## Usage
 Here's how you get started using Butns!
 * Link the butns stylesheet in your HTML file
+
 	```HTML
 	<link rel="stylesheet" href="path/to/butns.css">
 	```
